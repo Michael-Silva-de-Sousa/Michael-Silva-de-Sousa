@@ -26,6 +26,8 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 ![Java Badge](https://img.shields.io/badge/-Java-E42d2C?style=flat-square&logo=Java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
@@ -34,12 +36,16 @@ Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu
 ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white)
 ![Intellij IDE Badge](https://img.shields.io/badge/-Intellij%20IDE-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-330F63?style=flat-square&logo=gitlab&logoColor=fff)
 ![Postman](https://img.shields.io/badge/-Postman-FD602F?style=flat-square&logo=postman&logoColor=white)
 ![Scrum Badge](https://img.shields.io/badge/-Scrum-8A9296?style=flat-square&logo=scrutinizer-ci&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
-
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <p>
 Eleve o Cosmo do seu Coração!!!😄
 </p>
