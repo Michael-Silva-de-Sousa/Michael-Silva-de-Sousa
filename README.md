@@ -12,7 +12,7 @@
 
 ## Olá, eu sou Michael Sousa!
 <p>
-Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos profissionais e que estão muito próximos das implementações reais do mercado. Os projetos são predominantemente na linguagem Java e possuem arquiteturas molíticas e de microservices. Espero que gostem e que possam aproveitar o conteúdo.
+Se você esta no meu github quero que sinta-se a vontade para explorá-lo. O meu objetivo é disponibilizar alguns projetos realizados. Os projetos que você encontrará neste repositório são projetos pessoais e de estudo. Os projetos são predominantemente na linguagem Java. Espero que gostem e que possam aproveitar o conteúdo.
 </p>
 
 <i>
